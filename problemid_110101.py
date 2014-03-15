@@ -24,4 +24,7 @@ def find_cycle_length(number):
             number = number * 3 + 1
             count += 1
     return count
-    
+
+#example
+
+
