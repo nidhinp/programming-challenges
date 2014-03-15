@@ -26,5 +26,5 @@ def find_cycle_length(number):
     return count
 
 #example
-print find_cycle_length( 
+print find_cycle_length(22 
 
